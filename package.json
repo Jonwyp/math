@@ -1,6 +1,6 @@
 {
   "name": "@jonwyp/math",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple math library.",
   "main": "index.js",
   "scripts": {
