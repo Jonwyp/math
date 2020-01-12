@@ -17,11 +17,15 @@ const result = math.add(1, 1)
 
 ## API
 
-'math.add(...numbers)'
-'math.subtract(minuend, ...subtrahend)
-'math.multiply(...numbers)
-'math.divide(divisor, dividend)
-'math.powerOf(base, exponent)
+Addition - 'math.add(...numbers)'
+
+Subtraction - 'math.subtract(minuend, ...subtrahend)
+
+Multiplication - 'math.multiply(...numbers)
+
+Division - 'math.divide(divisor, dividend)
+
+Exponentiation - 'math.powerOf(base, exponent)
 
 ## Publish or update package on npm
 
