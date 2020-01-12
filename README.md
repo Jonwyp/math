@@ -19,13 +19,13 @@ const result = math.add(1, 1)
 
 Addition - 'math.add(...numbers)'
 
-Subtraction - 'math.subtract(minuend, ...subtrahend)
+Subtraction - 'math.subtract(minuend, ...subtrahend)'
 
-Multiplication - 'math.multiply(...numbers)
+Multiplication - 'math.multiply(...numbers)'
 
-Division - 'math.divide(divisor, dividend)
+Division - 'math.divide(divisor, dividend)'
 
-Exponentiation - 'math.powerOf(base, exponent)
+Exponentiation - 'math.powerOf(base, exponent)'
 
 ## Publish or update package on npm
 
